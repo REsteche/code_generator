@@ -42,3 +42,5 @@ This is a simple ML based API with [Flask](https://flask.palletsprojects.com/en/
    ```
 
 You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! Enjoy your coding tutor for now on :) 
+
+And in case you have any doubt you can contact me via email anytime; happy coding!
